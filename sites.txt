@@ -1,3 +1,0 @@
-# they are example websites. You can test with this exploit. Enjoy it.
-domain.vu/jpwhois.php?IP=
-studog.net/iptools/dig.php?address=
