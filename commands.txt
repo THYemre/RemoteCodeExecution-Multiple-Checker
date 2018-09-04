@@ -1,23 +1,13 @@
+# They are example commands for test server. You can add or remove.
 |ifconfig
-
 |ls
-
 |dir
-
 |whoami
-
 |id
-
 &&whoami
-
 &id
-
 &ls
-
 /???//???
-
 ||ls
-
 ||ifconfig
-
 ||ip%20addr%20show
