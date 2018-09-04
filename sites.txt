@@ -1,2 +1,2 @@
 domain.vu/jpwhois.php?IP=
-www.johnrouda.com/apps/droidtools/index.php?domain=
+studog.net/iptools/dig.php?address=
